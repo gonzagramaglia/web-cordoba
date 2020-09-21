@@ -101,7 +101,7 @@
 					<a href="#" class="menu__item">categorias<div class="empty-space">-</div>&amp;<div class="empty-space">-</div>desafios</a>
 					<a href="#" class="menu__item">agenda<div class="empty-space">-</div>e<div class="empty-space">-</div>inscripcion</a>
 					<a href="#" class="menu__item">auspicios</a>
-					<a href="#" class="menu__item">ultimas<div class="empty-space">-</div>noticias</a>
+					<a href="#" class="menu__item">ultimas<div class="empty-space">-</div>novedades</a>
 					<a href="#" class="menu__item">...en<div class="empty-space">-</div>cordoba</a>
 				</nav>
 				<div class="event-time">
@@ -216,7 +216,7 @@
 											<h2 class="content__title">categorias y desafios</h2>
 										</div>
 										<div class="col-lg-4 mt-3">
-											<h3 class="content__subtitle">Traduccion de los desafios.</h3>
+											<h3 class="content__subtitle">The rapid handle injects into the bashful lift.</h3>
 										</div>
 									</div>
 								</div>
@@ -224,12 +224,100 @@
 							<div class="section padding-top-bottom">
 								<div class="container">
 									<div class="row">
+										<!--<div class="offset-md-3 col-md-9">
+											<h4>moderators</h4>
+											<div class="title-page-line mt-4 mb-5"></div>
+										</div>
+										<div class="col-md-3">
+											<div class="speaker-image">
+												<h6>Anna Kulis</h6>
+												<img src="img/t1.jpg" alt="">
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-0">
+											<h5>director &amp; founder</h5>
+											<p><em>some company name, city</em></p>
+											<p class="mt-4">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit.</p>
+											<div class="social-team mt-4">
+												<a href="#">tw</a>
+												<a href="#">fb</a>
+												<a href="#">be</a>
+												<a href="#">in</a>
+											</div>
+										</div>
+										<div class="col-md-3 mt-5">
+											<div class="speaker-image">
+												<h6>Marco Furius</h6>
+												<img src="img/t2.jpg" alt="">
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-5">
+											<h5>head of unit</h5>
+											<p><em>some company name, city</em></p>
+											<p class="mt-4">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit.</p>
+											<div class="social-team mt-4">
+												<a href="#">tw</a>
+												<a href="#">fb</a>
+											</div>
+										</div> -->
 									</div>
 								</div>
 							</div>							
 							<div class="section padding-bottom-big">
 								<div class="container">
 									<div class="row">
+										<!--<div class="offset-md-3 col-md-9">
+											<h4>speakers</h4>
+											<div class="title-page-line mt-4 mb-5"></div>
+										</div>
+										<div class="col-md-3">
+											<div class="speaker-image">
+												<h6>Ivan Kulis</h6>
+												<img src="img/t3.jpg" alt="">
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-0">
+											<h5>chief economist</h5>
+											<p><em>some company name, city</em></p>
+											<p class="mt-4">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit.</p>
+											<div class="social-team mt-4">
+												<a href="#">tw</a>
+												<a href="#">fb</a>
+												<a href="#">be</a>
+											</div>
+										</div>
+										<div class="col-md-3 mt-5">
+											<div class="speaker-image">
+												<h6>Marco Furius</h6>
+												<img src="img/t4.jpg" alt="">
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-5">
+											<h5>research director</h5>
+											<p><em>some company name, city</em></p>
+											<p class="mt-4">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit.</p>
+											<div class="social-team mt-4">
+												<a href="#">tw</a>
+												<a href="#">fb</a>
+												<a href="#">be</a>
+												<a href="#">in</a>
+											</div>
+										</div>
+										<div class="col-md-3 mt-5">
+											<div class="speaker-image">
+												<h6>Nia Johnson</h6>
+												<img src="img/t5.jpg" alt="">
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-5">
+											<h5>head of innovation</h5>
+											<p><em>some company name, city</em></p>
+											<p class="mt-4">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit.</p>
+											<div class="social-team mt-4">
+												<a href="#">be</a>
+												<a href="#">in</a>
+											</div>
+										</div> -->
 									</div>
 								</div>
 							</div>						
@@ -274,12 +362,206 @@
 							<div class="section padding-top-bottom">
 								<div class="container">
 									<div class="row">
+										<!-- 1st day start -->
+										<!--<div class="offset-md-3 col-md-9">
+											<h4>viernes 2 de octubre 2020</h4>
+											<div class="title-page-line mt-4 mb-5"></div>
+										</div>
+										
+										<div class="col-md-3">
+											<div class="schedule-time mb-4">
+												<p>15:00 pm - 17:00 pm</p>
+											</div>
+											<div class="schedule-place">
+												<p>Cruise Terminal<br>37 Shing Road<br>Hong Kong</p>
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-0">
+											<h5>welcome reception</h5>
+											<p><em>Hosted by some copmany</em></p>
+											<div class="section pl-5">
+												<h6 class="mt-5 mb-3">welcome remarks by</h6>
+												<p><strong>ANNA KULIS</strong> - Create a Database Cluster in the Cloud With MongoDB Atlas</p>
+												<p><strong>MARCO FURIUS</strong> - Angular Authentication With JWT</p>
+											</div>
+										</div> -->
+										<!-- 1st day end -->
+										<!-- 2nd day start -->										
+										<!--<div class="offset-md-3 col-md-9 mt-5">
+											<h4>sabado 3 de octubre 2020</h4>
+											<div class="title-page-line mt-4 mb-5"></div>
+										</div>
+										
+										<div class="col-md-3">
+											<div class="schedule-time mb-4">
+												<p>13:00 pm - 15:00 pm</p>
+											</div>
+											<div class="schedule-place">
+												<p>Cruise Terminal<br>37 Shing Road<br>Hong Kong</p>
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-0">
+											<h5>networking</h5>
+											<p><em>Registration and networking</em></p>
+										</div>
+										
+										<div class="col-md-3 mt-5">
+											<div class="schedule-time">
+												<p>15:00 pm - 17:00 pm</p>
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-5">
+											<h5>opening plenary</h5>
+											<p><em>Looking into the future</em></p>
+											<div class="section pl-5">
+												<h6 class="mt-5 mb-3">welcome remarks by</h6>
+												<p><strong>ANNA KULIS</strong> - Create a Database Cluster in the Cloud With MongoDB Atlas</p>
+												<p><strong>MARCO FURIUS</strong> - Angular Authentication With JWT</p>
+												<p><strong>VICTOR TETT</strong> - Hands-on With ARIA: Accessibility Recipes for Web Apps</p>
+												<p><strong>PETER REX</strong> - Apps and Tools to Support LGBTQ Youth This Spirit Day</p>
+												<p><strong>IVAN JELIC</strong> - Training an Image Classification Model With Create ML</p>
+												<p><strong>NIA JOHNSON</strong> - Practical Test-Driven Development</p>
+											</div>
+										</div>
+										
+										<div class="col-md-3 mt-5">
+											<div class="schedule-time">
+												<p>17:00 pm - 18:00 pm</p>
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-5">
+											<h5>lunch</h5>
+											<p><em>Everyone need to eat</em></p>
+										</div>
+										
+										<div class="col-md-3 mt-5">
+											<div class="schedule-time">
+												<p>18:00 pm - 20:00 pm</p>
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-5">
+											<h5>working session</h5>
+											<p><em>Looking into the future</em></p>
+											<div class="section pl-5">
+												<h6 class="mt-5 mb-3">welcome remarks by</h6>
+												<p><strong>ANNA KULIS</strong> - Create a Database Cluster in the Cloud With MongoDB Atlas</p>
+												<p><strong>MARCO FURIUS</strong> - Angular Authentication With JWT</p>
+												<p><strong>IVAN JELIC</strong> - Training an Image Classification Model With Create ML</p>
+												<p><strong>NIA JOHNSON</strong> - Practical Test-Driven Development</p>
+											</div>
+										</div> -->
+										<!-- 2nd day end -->
+										<!-- 3rd day start -->		
+										<!--<div class="offset-md-3 col-md-9 mt-5">
+											<h4>domingo 4 de octubre 2020</h4>
+											<div class="title-page-line mt-4 mb-5"></div>
+										</div>
+										
+										<div class="col-md-3">
+											<div class="schedule-time mb-4">
+												<p>15:00 pm - 17:00 pm</p>
+											</div>
+											<div class="schedule-place">
+												<p>Cruise Terminal<br>37 Shing Road<br>Hong Kong</p>
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-0">
+											<h5>moving the world</h5>
+											<p><em>Hosted by some copmany</em></p>
+											<div class="section pl-5">
+												<h6 class="mt-5 mb-3">closing remarks by</h6>
+												<p><strong>ANNA KULIS</strong> - Create a Database Cluster in the Cloud With MongoDB Atlas</p>
+												<p><strong>MARCO FURIUS</strong> - Angular Authentication With JWT</p>
+											</div>
+										</div> --> 
+										<!-- 3rd day end -->
+										<!-- 4th day start -->				
+										<!--<div class="offset-md-3 col-md-9 mt-5">
+											<h4>tuesday 30 july 2019</h4>
+											<div class="title-page-line mt-4 mb-5"></div>
+										</div>
+										
+										<div class="col-md-3">
+											<div class="schedule-time mb-4">
+												<p>15:00 pm - 17:00 pm</p>
+											</div>
+											<div class="schedule-place">
+												<p>Cruise Terminal<br>37 Shing Road<br>Hong Kong</p>
+											</div>
+										</div>
+										<div class="col-md-9 mt-4 mt-md-0">
+											<h5>moving the world</h5>
+											<p><em>Hosted by some copmany</em></p>
+											<div class="section pl-5">
+												<h6 class="mt-5 mb-3">closing remarks by</h6>
+												<p><strong>ANNA KULIS</strong> - Create a Database Cluster in the Cloud With MongoDB Atlas</p>
+												<p><strong>MARCO FURIUS</strong> - Angular Authentication With JWT</p>
+											</div>
+										</div> -->
+										<!-- 4th day end -->								
 									</div>
 								</div>
 							</div>				
 							<div class="section padding-bottom-big">
 								<div class="container">
 									<div class="row">
+										<!-- 1st day start -->
+										<!--<div class="offset-md-3 col-md-9">
+											<h4>inscripciones y transmisiones online</h4>
+											<div class="title-page-line mt-4 mb-5"></div>
+										</div>											
+										<div class="col-lg-3">
+											<h6>inscripcion</h6>
+										</div>
+										<div class="col-lg-9 mt-4 mt-lg-0">
+											<div class="pass-wrap">
+												<p class="pl-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+												<p class="mt-4"><em></em> seat in 7-10 row</p>
+												<p class="mt-2"><em></em> free drink</p>
+												<p class="mt-2"><em></em> event on flash drive</p>
+												<p class="mt-2 mb-5 mb-sm-0"><em class="no"></em> speakers support</p>
+												<a href="#">get ticket - $37</a>
+											</div>	
+										</div>									
+										<div class="col-lg-3 mt-5">
+											<h6>bienvenida</h6>
+										</div>
+										<div class="col-lg-9 mt-4 mt-lg-5">
+											<div class="pass-wrap">
+												<p class="pl-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+												<p class="mt-4"><em></em> seat in 5-7 row</p>
+												<p class="mt-2"><em></em> 3 free drinks</p>
+												<p class="mt-2"><em></em> event on flash drive</p>
+												<p class="mt-2 mb-5 mb-sm-0"><em class="no"></em> speakers support</p>
+												<a href="#" class="btn-pass-2">get ticket - $70</a>
+											</div>		
+										</div>								
+										<div class="col-lg-3 mt-5">
+											<h6>presentacion space apps</h6>
+										</div>
+										<div class="col-lg-9 mt-4 mt-lg-5">
+											<div class="pass-wrap">
+												<p class="pl-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+												<p class="mt-4"><em></em> seat in 3-5 row</p>
+												<p class="mt-2"><em></em> 5 free drinks</p>
+												<p class="mt-2"><em></em> event on flash drive</p>
+												<p class="mt-2 mb-5 mb-sm-0"><em class="no"></em> speakers support</p>
+												<a href="#" class="btn-pass-3">get ticket - $100</a>
+											</div>
+										</div>								
+										<div class="col-lg-3 mt-5">
+											<h6>presentacion proyectos</h6>
+										</div>
+										<div class="col-lg-9 mt-4 mt-lg-5">
+											<div class="pass-wrap">
+												<p class="pl-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+												<p class="mt-4"><em></em> seat in 1-3 row</p>
+												<p class="mt-2"><em></em> 10 free drinks</p>
+												<p class="mt-2"><em></em> event on flash drive</p>
+												<p class="mt-2 mb-5 mb-sm-0"><em></em> speakers support</p>
+												<a href="#" class="btn-pass-4">get ticket - $125</a>
+											</div>
+										</div> -->
 									</div>
 								</div>
 							</div>				
@@ -324,12 +606,130 @@
 							<div class="section padding-top-bottom">
 								<div class="container">
 									<div class="row">									
+										<!--<div class="col-sm-6 col-md-4">	
+											<a href="img/gallery/1.jpg" data-fancybox="gallery">							
+												<div class="img-wrap gallery">
+													<img src="img/gallery/1.jpg" alt="">
+												</div>
+											</a>
+										</div>									
+										<div class="col-sm-6 col-md-4 mt-4 mt-sm-0">
+											<a href="img/gallery/2.jpg" data-fancybox="gallery">								
+												<div class="img-wrap gallery">
+													<img src="img/gallery/2.jpg" alt="">
+												</div>
+											</a>
+										</div>									
+										<div class="col-sm-6 col-md-4 mt-4 mt-md-0">
+											<a href="img/gallery/3.jpg" data-fancybox="gallery">									
+												<div class="img-wrap gallery">
+													<img src="img/gallery/3.jpg" alt="">
+												</div>
+											</a>
+										</div>									
+										<div class="col-sm-6 col-md-4 mt-4">	
+											<a href="img/gallery/4.jpg" data-fancybox="gallery">							
+												<div class="img-wrap gallery">
+													<img src="img/gallery/4.jpg" alt="">
+												</div>
+											</a>
+										</div>									
+										<div class="col-sm-6 col-md-4 mt-4">	
+											<a href="img/gallery/5.jpg" data-fancybox="gallery">								
+												<div class="img-wrap gallery">
+													<img src="img/gallery/5.jpg" alt="">
+												</div>
+											</a>
+										</div>									
+										<div class="col-sm-6 col-md-4 mt-4">	
+											<a href="img/gallery/6.jpg" data-fancybox="gallery">								
+												<div class="img-wrap gallery">
+													<img src="img/gallery/6.jpg" alt="">
+												</div>
+											</a>
+										</div>									
+										<div class="col-sm-6 col-md-4 mt-4">	
+											<a href="img/gallery/7.jpg" data-fancybox="gallery">							
+												<div class="img-wrap gallery">
+													<img src="img/gallery/7.jpg" alt="">
+												</div>
+											</a>
+										</div>									
+										<div class="col-sm-6 col-md-4 mt-4">
+											<a href="img/gallery/8.jpg" data-fancybox="gallery">									
+												<div class="img-wrap gallery">
+													<img src="img/gallery/8.jpg" alt="">
+												</div>
+											</a>
+										</div>									
+										<div class="col-sm-6 col-md-4 mt-4">
+											<a href="img/gallery/9.jpg" data-fancybox="gallery">									
+												<div class="img-wrap gallery">
+													<img src="img/gallery/9.jpg" alt="">
+												</div>
+											</a>
+										</div>									
+										<div class="col-sm-6 col-md-4 mt-4">	
+											<a href="img/gallery/10.jpg" data-fancybox="gallery">							
+												<div class="img-wrap gallery">
+													<img src="img/gallery/10.jpg" alt="">
+												</div>
+											</a>
+										</div>									
+										<div class="col-sm-6 col-md-4 mt-4">	
+											<a href="img/gallery/11.jpg" data-fancybox="gallery">								
+												<div class="img-wrap gallery">
+													<img src="img/gallery/11.jpg" alt="">
+												</div>
+											</a>
+										</div>									
+										<div class="col-sm-6 col-md-4 mt-4">	
+											<a href="img/gallery/12.jpg" data-fancybox="gallery">							
+												<div class="img-wrap gallery">
+													<img src="img/gallery/12.jpg" alt="">
+												</div>
+											</a>
+										</div> -->
 									</div>
 								</div>
 							</div>
 							<div class="section padding-bottom-big">
 								<div class="container">
 									<div class="row">			
+										<!--<div class="offset-md-3 col-md-9">
+											<h4>shaping the future</h4>
+											<div class="title-page-line mt-4 mb-5"></div>
+										</div>									
+										<div class="col-lg-3">
+											<h6>strategic partners</h6>
+										</div>
+										<div class="col-lg-9 mt-4 mt-lg-0">
+											<div class="sponsors">
+												<img src="img/logos/white1.png" alt="">
+												<img src="img/logos/white2.png" alt="">
+												<img class="mt-3 mt-md-0" src="img/logos/white3.png" alt="">
+												<img class="mt-3 mt-md-0" src="img/logos/white4.png" alt="">
+											</div>
+										</div>									
+										<div class="col-lg-3 mt-5">
+											<h6>project partners</h6>
+										</div>
+										<div class="col-lg-9 mt-4 mt-lg-5">
+											<div class="sponsors">
+												<img src="img/logos/white5.png" alt="">
+												<img src="img/logos/white6.png" alt="">
+												<img class="mt-3 mt-md-0" src="img/logos/white7.png" alt="">
+												<img class="mt-3 mt-md-0" src="img/logos/white8.png" alt="">
+												<img class="mt-3" src="img/logos/white9.png" alt="">
+												<img class="mt-3" src="img/logos/white10.png" alt="">
+												<img class="mt-3" src="img/logos/white11.png" alt="">
+												<img class="mt-3" src="img/logos/white1.png" alt="">
+												<img class="mt-3" src="img/logos/white2.png" alt="">
+												<img class="mt-3" src="img/logos/white3.png" alt="">
+												<img class="mt-3" src="img/logos/white4.png" alt="">
+												<img class="mt-3" src="img/logos/white6.png" alt="">
+											</div>
+										</div> -->
 									</div>
 								</div>
 							</div>					
@@ -374,6 +774,87 @@
 							<div class="section padding-top padding-bottom-big">
 								<div class="container">
 									<div class="row">
+										<!--<div class="col-md-4">
+											<div class="blog-wrap pb-4">
+												<a href="#"><img src="img/blog/1.jpg" alt=""></a>
+												<p class="px-4 pt-4 mb-1"><small>by Alex Andrews</small></p>
+												<a href="#"><h6 class="px-4 mb-3">We want to share with you our mood after selection.</h6></a>
+												<p class="px-4">Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor.</p>
+												<a href="#"><div class="go-post pl-4 pt-4"><i class="fa fa-long-arrow-right"></i></div></a>
+											</div>
+										</div>
+										<div class="col-md-4 mt-4 mt-md-0">
+											<div class="blog-wrap pb-4">
+												<a href="#"><img src="img/blog/2.jpg" alt=""></a>
+												<p class="px-4 pt-4 mb-1"><small>by Anna Kulis</small></p>
+												<a href="#"><h6 class="px-4 mb-3">Sleep, code, eat, travel. Repeat. Sleep, code...</h6></a>
+												<p class="px-4">Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor.</p>
+												<a href="#"><div class="go-post pl-4 pt-4"><i class="fa fa-long-arrow-right"></i></div></a>
+											</div>
+										</div>
+										<div class="col-md-4 mt-4 mt-md-0">
+											<div class="blog-wrap pb-4">
+												<a href="#"><img src="img/blog/3.jpg" alt=""></a>
+												<p class="px-4 pt-4 mb-1"><small>by Frank Furius</small></p>
+												<a href="#"><h6 class="px-4 mb-3">Don’t get lost quoting your next projects.</h6></a>
+												<p class="px-4">Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor.</p>
+												<a href="#"><div class="go-post pl-4 pt-4"><i class="fa fa-long-arrow-right"></i></div></a>
+											</div>
+										</div>
+										<div class="col-md-4 mt-4">
+											<div class="blog-wrap pb-4">
+												<a href="#"><img src="img/blog/4.jpg" alt=""></a>
+												<p class="px-4 pt-4 mb-1"><small>by Sandra Furius</small></p>
+												<a href="#"><h6 class="px-4 mb-3">Don´t give up, keep on focus all the time.</h6></a>
+												<p class="px-4">Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor.</p>
+												<a href="#"><div class="go-post pl-4 pt-4"><i class="fa fa-long-arrow-right"></i></div></a>
+											</div>
+										</div>
+										<div class="col-md-4 mt-4">
+											<div class="blog-wrap pb-4">
+												<a href="#"><img src="img/blog/5.jpg" alt=""></a>
+												<p class="px-4 pt-4 mb-1"><small>by Anna Kulis</small></p>
+												<a href="#"><h6 class="px-4 mb-3">Moments from a life. Day of photography.</h6></a>
+												<p class="px-4">Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor.</p>
+												<a href="#"><div class="go-post pl-4 pt-4"><i class="fa fa-long-arrow-right"></i></div></a>
+											</div>
+										</div>
+										<div class="col-md-4 mt-4">
+											<div class="blog-wrap pb-4">
+												<a href="#"><img src="img/blog/6.jpg" alt=""></a>
+												<p class="px-4 pt-4 mb-1"><small>by Frank Furius</small></p>
+												<a href="#"><h6 class="px-4 mb-3">The golden rule of modern webdesign.</h6></a>
+												<p class="px-4">Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor.</p>
+												<a href="#"><div class="go-post pl-4 pt-4"><i class="fa fa-long-arrow-right"></i></div></a>
+											</div>
+										</div>
+										<div class="col-md-4 mt-4">
+											<div class="blog-wrap pb-4">
+												<a href="#"><img src="img/blog/7.jpg" alt=""></a>
+												<p class="px-4 pt-4 mb-1"><small>by Alex Andrews</small></p>
+												<a href="#"><h6 class="px-4 mb-3">Form and content together.</h6></a>
+												<p class="px-4">Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor.</p>
+												<a href="#"><div class="go-post pl-4 pt-4"><i class="fa fa-long-arrow-right"></i></div></a>
+											</div>
+										</div>
+										<div class="col-md-4 mt-4">
+											<div class="blog-wrap pb-4">
+												<a href="#"><img src="img/blog/8.jpg" alt=""></a>
+												<p class="px-4 pt-4 mb-1"><small>by Anna Kulis</small></p>
+												<a href="#"><h6 class="px-4 mb-3">Pretty much how you'll see it.</h6></a>
+												<p class="px-4">Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor.</p>
+												<a href="#"><div class="go-post pl-4 pt-4"><i class="fa fa-long-arrow-right"></i></div></a>
+											</div>
+										</div>
+										<div class="col-md-4 mt-4">
+											<div class="blog-wrap pb-4">
+												<a href="#"><img src="img/blog/9.jpg" alt=""></a>
+												<p class="px-4 pt-4 mb-1"><small>by Sandra Furius</small></p>
+												<a href="#"><h6 class="px-4 mb-3">Moments from a life.</h6></a>
+												<p class="px-4">Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor.</p>
+												<a href="#"><div class="go-post pl-4 pt-4"><i class="fa fa-long-arrow-right"></i></div></a>
+											</div>
+										</div> -->
 									</div>
 								</div>
 							</div>				
@@ -418,6 +899,45 @@
 							<div class="section padding-top padding-bottom-big">	
 								<div class="container">
 									<div class="row">		
+										<!--<div class="offset-md-3 col-md-9">
+											<h4>get in touch</h4>
+											<div class="title-page-line mt-4 mb-5"></div>
+										</div>									
+										<div class="col-lg-3">
+											<h6>drop a line</h6>
+										</div>
+										<div class="col-lg-9 mt-4 mt-lg-0">
+											<form name="ajax-form" id="ajax-form" action="mail-it.php" method="post">
+												<div class="row">
+													<div class="col-lg-6">
+														<label for="name"> 
+															<span class="error" id="err-name">please enter name</span>
+														</label>
+														<input name="name" id="name" type="text"   placeholder="Your Name: *"/>
+													</div>
+													<div class="col-lg-6 mt-4 mt-lg-0">
+														<label for="email"> 
+															<span class="error" id="err-email">please enter e-mail</span>
+															<span class="error" id="err-emailvld">e-mail is not a valid format</span>
+														</label>
+														<input name="email" id="email" type="text"  placeholder="E-Mail: *"/>
+													</div>
+													<div class="col-lg-12 mt-4">
+														<label for="message"></label>
+														<textarea name="message" id="message" placeholder="Tell Us Everything"></textarea>
+													</div>
+													<div class="col-lg-12 mt-4">
+														<div id="button-con"><button class="send_message" id="send" data-lang="en"><span>submit</span></button></div>					
+													</div>	
+													<div class="col-lg-12">
+														<div class="error" id="err-form"><span>There was a problem validating the form please check!</span></div>
+														<div class="error" id="err-timedout">The connection to the server timed out!</div>
+														<div class="error" id="err-state"></div>
+														<div id="ajaxsuccess">Successfully sent!!</div>
+													</div>	
+												</div>	
+											</form>	
+										</div> -->									
 										<div class="col-lg-3 mt-5">
 											<h6>contacto</h6>
 										</div>
@@ -431,6 +951,18 @@
 											<p>Incubadora de Empresas, Univervidad Nacional de Cordoba</p>
 											<p>Cordoba (5000), Argentina</p>
 										</div>					
+										<!--<div class="col-lg-3 mt-5">
+											<h6>subscribe</h6>
+										</div>
+										<div class="col-lg-9 mt-4 mt-lg-5">
+											<div class="subscribe">
+												<input type="text" placeholder="subscribe"/>
+												<button data-lang="en"><span class="fa-long-arrow-right"></span></button>
+											</div>
+											<div class="subscribe-text">
+												<p>* we promise that we won´t spam you, never.</p>
+											</div>
+										</div> -->
 									</div>
 								</div>
 							</div>				
